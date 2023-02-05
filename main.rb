@@ -8,3 +8,6 @@ puts "==================="
 load "variable.rb"
 
 puts "==================="
+
+
+load "strings.rb"
